@@ -64,7 +64,7 @@ fi
 
 # iPhone settings
 if [ "${iphone}" == "" ]; then
-	iphone="5.1"
+	iphone="6.0"
 fi
 TI_IPHONE_DIR="${TI_ASSETS_DIR}/iphone"
 TI_IPHONE_BUILD="${TI_IPHONE_DIR}/builder.py"
